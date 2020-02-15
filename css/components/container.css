@@ -1,0 +1,9 @@
+/* Container layout so the UI components sit in a column on the page */
+.container {
+  display: flex;
+  flex-direction: column;
+  
+}
+.container > * {
+  margin: 48px 0px;
+}
