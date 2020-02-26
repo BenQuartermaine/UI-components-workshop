@@ -1,7 +1,7 @@
 # UI-components-workshop
 
 Before we get started
-1. Make sure you have a text editor (Sublime or VS Code are both great ones)
+1. Make sure you have a text editor (Sublime or VS Code (https://code.visualstudio.com/download) are both great ones)
 2. Open your terminal and clone this repo: `git clone https://github.com/BenQuartermaine/UI-components-workshop`
 3. You may need to install git in your terminal. 
    Follow the instructions here:https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
@@ -29,13 +29,30 @@ Buttons typically lead you to another page or help perform an action on your cur
 
 Exercise 3
 - Create a card
-For arranging different elements in a card you'll need to position them. There is many ways to do this. A good place to start is with flexbox—95% of components on the web will use flexbox in some form, so its worth understanding.
+For arranging different elements in a card you'll need to position them. There is many ways to do this. A good place to start is with flexbox — 95% of components on the web will use flexbox in some form, so its worth understanding.
 
 Exercise 4
 - Create a banner
 Now position some text and a button (and anything else you'd like) on top of an image. For this exercise you'll need to use the CSS property of `background-image`.
 
-Move into your `index.html`:
 Exercise 5
 - Combine into a beautiful page
-Now bring it all together by combining your components into a page.
+
+Now bring it all together by combining your components into a page. 
+Move into your `index.html` and start to arrange your components on the page.
+Don't forget to give your elements some `margin` and `padding` so they have space to breathe
+
+
+Where to from here?
+This workshop is a broad and varied look into UI components. 
+
+Here are some resources for continued learning:
+- On the convergence of Design and Development: 
+https://www.designsystems.com/stack-mirroring-designing-for-code-and-coding-for-design/
+- CSS layouts by Scott Tolinski: 
+https://www.leveluptutorials.com/tutorials/modern-css-layouts/tweetdeck-layoutvertical-infinite-scrolling-columns
+- Wes Bos is the man for JavaScript stuff, but also great for CSS stuff
+https://cssgrid.io/
+
+
+
